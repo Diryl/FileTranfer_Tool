@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gbk" ?>
+<root>
+	<!-- 接收文件的目录。 -->
+	<filepath>/home/diryl/code/freecplus/fileTransfer/data</filepath>
+
+	<!-- 程序运行的日志文件名。 -->
+	<logpath>/home/diryl/code/freecplus/fileTransfer/log/fileServer.log</logpath>
+
+	<!-- server端port端口号。 -->
+	<port>5050</port>
+</root>
+
+

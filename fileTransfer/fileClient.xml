@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="gbk" ?>
+<root>
+	<!-- 需要发送的目录。 -->
+	<filepath>/home/diryl/code/freecplus/demo1</filepath>
+
+	<!-- 匹配的文件名。 -->
+	<filematch>*.cpp</filematch>
+
+	<!-- 程序运行的日志文件名。 -->
+	<logpath>/home/diryl/code/freecplus/fileTransfer/log/fileClient.log</logpath>
+
+	<!-- server端IP地址。 -->
+	<serverIP>192.168.172.153</serverIP>
+
+	<!-- server端port端口号。 -->
+	<port>5050</port>
+</root>
+
+
